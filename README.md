@@ -21,7 +21,8 @@ README.md.
 - Commit dan push repository ke github.
 
 
-![Alt text](Gambar/Gambar1.png)
+![image](https://github.com/AndikaSTWN/praktikum12/assets/147571757/7f327050-bdc1-496d-97f9-ad22108bc6fd)
+
 
 * Membuat ```class mahasiswa():``` dengan instance class
 
