@@ -59,7 +59,7 @@ README.md.
 ![image](https://github.com/AndikaSTWN/praktikum12/assets/147571757/a43fbcd7-9d21-4db7-8f51-cba08ee1f666)
 
 ### Mengubah & menghapus data
-![Alt text](Gambar/Gambar%202.png)
+![image](https://github.com/AndikaSTWN/praktikum12/assets/147571757/dade727a-1994-4f8f-9428-c366bf0737d5)
 
 ## Flowchartnya 
 ![Alt text](Gambar/flowcharts.png)
