@@ -21,7 +21,7 @@ README.md.
 - Commit dan push repository ke github.
 
 
-![image](https://github.com/AndikaSTWN/praktikum12/assets/147571757/7f327050-bdc1-496d-97f9-ad22108bc6fd)
+![image](https://github.com/AndikaSTWN/praktikum12/assets/147571757/f0bae7ed-2d0b-4ff0-8dbf-3aa316fa7ee2)
 
 
 * Membuat ```class mahasiswa():``` dengan instance class
@@ -56,7 +56,7 @@ README.md.
 
 ## Hasil Program
 ### Menambahkan data & Melihat data
-![Alt text](Gambar/Gambar%201.png)
+![image](https://github.com/AndikaSTWN/praktikum12/assets/147571757/a43fbcd7-9d21-4db7-8f51-cba08ee1f666)
 
 ### Mengubah & menghapus data
 ![Alt text](Gambar/Gambar%202.png)
